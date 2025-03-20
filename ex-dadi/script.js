@@ -1,10 +1,14 @@
-// dichiaro prima variabile dado
-let dadoUser = Math.floor(Math.random() * 6) + 1;
+// dichiaro la prima variabile dado per l'utente
+let dadoUser = parseInt(prompt('Inserisci un valore da 1 a 6'));
+
+if (dadoUser > 6){
+    alert('Inserisci un valore corretto');
+}
 
 // mostro il primo numero
 console.log(dadoUser);
 
-// dichiaro la seconda variabile dado
+// dichiaro la seconda variabile dado randomica per il computer
 let dadoCom = Math.floor(Math.random() * 6) + 1;
 
 // mostro il secondo numero
