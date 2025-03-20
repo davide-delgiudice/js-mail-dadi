@@ -12,3 +12,11 @@ javascript non fa nulla da solo, dobbiamo dirgli noi cosa vogliamo fare
 si ma noi cosa vogliamo fare?
 torniamo a scrivere in italiano
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
+
+Esercizio 1
+
+Creare un array con all'interno diverse mail già esistente
+Creare un comando prompt con cui chiedere la mail ad un nuovo utente
+Creare una variabile di controllo
+Creare un ciclo for con cui controllare le mail presenti
+Creare un if per verificare la condizione vero o falso della presenza della mail inserita
