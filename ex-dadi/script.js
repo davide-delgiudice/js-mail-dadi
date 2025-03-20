@@ -3,7 +3,7 @@ let dadoUser = parseInt(prompt('Inserisci un valore da 1 a 6'));
 
 if (dadoUser > 6){
     alert('Inserisci un valore corretto');
-        dadoUser = parseInt(prompt('Inserisci un valore da 1 a 6'));
+    dadoUser = parseInt(prompt('Inserisci un valore da 1 a 6'));
 }
 
 // mostro il primo numero

@@ -23,6 +23,7 @@ Creare un if per verificare la condizione vero o falso della presenza della mail
 
 Esercizio 2
 
-Creare due variabili che possono contenere un numero da 1 a 6, una per me e una per il computer
-Il numero deve essere randomico, come se tirassimo dei dadi
-Fare un paragone tra i due risultati tramite if e else if per stabilire se l'utente vince, perde, o pareggia
+Creare due variabili che possono contenere un numero da 1 a 6
+La variabile per l'utente dovrà contenere un prompt
+La variabile per il computer dovrà essere randomica
+Fare un paragone tra i due risultati tramite if, e else if, per stabilire se l'utente vince, perde, o pareggia
