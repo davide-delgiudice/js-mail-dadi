@@ -1,4 +1,4 @@
-// variabile array
+// dichiaro variabile array
 const listaMail = 
 [
     'davidedelgiudice@gmail.com',

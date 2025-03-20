@@ -20,3 +20,9 @@ Creare un comando prompt con cui chiedere la mail ad un nuovo utente
 Creare una variabile di controllo
 Creare un ciclo for con cui controllare le mail presenti
 Creare un if per verificare la condizione vero o falso della presenza della mail inserita
+
+Esercizio 2
+
+Creare due variabili che possono contenere un numero da 1 a 6, una per me e una per il computer
+Il numero deve essere randomico, come se tirassimo dei dadi
+Fare un paragone tra i due risultati tramite if e else if per stabilire se l'utente vince, perde, o pareggia
