@@ -27,3 +27,10 @@ for (let i=0; i<listaMail.length; i++){
     }
 }
 
+// mostra il messaggio della presenza o non presenza della mail
+if(presenzaMail){
+    console.log('La mail è nella lista')
+}
+else{
+    console.log('La mail non è nella lista')
+}
